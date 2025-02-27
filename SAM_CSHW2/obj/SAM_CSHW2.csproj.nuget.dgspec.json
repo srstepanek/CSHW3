@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sstepanek\\Desktop\\Visual Stdios\\SAM_CSHW2\\SAM_CSHW2\\SAM_CSHW2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sstepanek\\Desktop\\Visual Stdios\\SAM_CSHW2\\SAM_CSHW2\\SAM_CSHW2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sstepanek\\Desktop\\Visual Stdios\\SAM_CSHW2\\SAM_CSHW2\\SAM_CSHW2.csproj",
+        "projectName": "SAM_CSHW2",
+        "projectPath": "C:\\Users\\sstepanek\\Desktop\\Visual Stdios\\SAM_CSHW2\\SAM_CSHW2\\SAM_CSHW2.csproj",
+        "packagesPath": "C:\\Users\\sstepanek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sstepanek\\Desktop\\Visual Stdios\\SAM_CSHW2\\SAM_CSHW2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\sstepanek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.10.0.5680, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.10.0.5680, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.10.0.5680, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.10.0.5680, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
